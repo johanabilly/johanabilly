@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johanabilly
 - 👀 I’m interested in building websites 
-- 🌱 I’m currently learning html,css,JavaScript 
+- 🌱 I’m currently learning html,css,JavaScript,php
 - 📫 How to reach me instagram johanabilly
 
 <!---
